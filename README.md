@@ -3,6 +3,7 @@ Production Challenges of Distributed Ledger Technology (DLT) based Enterprise Ap
 
 The following software quality parameters were considered:
 Challenges pertaining to production readiness for DLT were classified and scored under the following parameters with the corresponding weights:
+
 | Software Quality Parameter | Weight |
 |--|--|
 | Confidentiality | 3 |
