@@ -30,3 +30,4 @@ Challenges pertaining to production readiness for DLT were classified and scored
 | Accessibility | 1 |
 | Ease of Use | 1 |
 
+The set of challenges give an insight into top quality parameters that are affected by the challenges and also the top challenges to consider when deploying an enterprise DLT system in production.
